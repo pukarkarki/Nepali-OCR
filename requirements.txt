@@ -1,7 +1,5 @@
 pip
 torch
 streamlit
-torchaudio
-torchinfo
-torchmetrics
+torchvision
 
