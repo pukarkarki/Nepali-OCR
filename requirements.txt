@@ -1,5 +1,4 @@
 pip==23.0.1
-python==3.10
 pytorch==2.0.0
 streamlit==1.22.0
 torchaudio==2.0.0
