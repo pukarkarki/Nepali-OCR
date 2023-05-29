@@ -1,5 +1,5 @@
 pip
-pytorch
+torch
 streamlit
 torchaudio
 torchinfo
