@@ -1,8 +1,8 @@
-pip=23.0.1
-python=3.10.11
-pytorch=2.0.0
-streamlit=1.22.0
-torchaudio=2.0.0
-torchinfo=1.8.0
-torchmetrics=0.11.2
+pip==23.0.1
+python==3.10.11
+pytorch==2.0.0
+streamlit==1.22.0
+torchaudio==2.0.0
+torchinfo==1.8.0
+torchmetrics==0.11.2
 
