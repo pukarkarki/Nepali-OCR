@@ -1,9 +1,4 @@
 import streamlit as st
-import pandas as pd
-import numpy as np
-import cv2
-from PIL import Image
-import torch
 import predict
 
 FILEPATH = 'models/model.pth'
